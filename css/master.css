@@ -32,7 +32,7 @@ header
 
   width:100%;
 
-  background-color:#4A4A58;
+  background-color:#6C85D2;
 
   font-size: 70px;
 
@@ -48,7 +48,7 @@ nav
 
   width:100%;
 
-  background-color:#4A4A58;
+  background-color:#6C85D2;
 
 }
 
@@ -62,7 +62,7 @@ main
 
   width:75%;
 
-  background-color:#4A4A58;
+  background-color:#6C85D2;
 
 }
 
@@ -76,7 +76,7 @@ aside
 
   width:25%;
 
-  background-color:#4A4A58;
+  background-color:#6C85D2;
 
 }
 
@@ -90,7 +90,7 @@ footer
 
   width:100%;
 
-  background-color:#4A4A58;
+  background-color:#6C85D2;
 
 }
 
@@ -112,11 +112,11 @@ footer
 
 a {
 
-  color:black;
+  color:pink;
 
   text-decoration: underline;
 
-  text-decoration-color:black;
+  text-decoration-color:pink;
 
   font-size: 30px;
 
